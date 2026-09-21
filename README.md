@@ -4,11 +4,7 @@
 
 ![MC_Banner.png](https://raw.githubusercontent.com/Maucols/maucols/refs/heads/main/MC_Banner.png)
 
-```text
-Building software by day.
-Breaking strings by night.
-Chasing mountains whenever possible.
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2878C8&width=435&lines=Building+software+by+day.;Breaking+strings+by+night.;Chasing+mountains+whenever+possible.)](https://git.io/typing-svg)
 
 Soy **Mauricio**, aunque normalmente me encontrarás como **Mau**.
 
@@ -48,35 +44,26 @@ Y cuando no estoy frente al código... probablemente estoy sobre una bici, corri
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ![jQuery](https://img.shields.io/badge/jQuery-111111?style=for-the-badge&logo=jquery&logoColor=0769AD)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
-
 ![CSharp](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=239120)
-
 ![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=.net&logoColor=512BD4)
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 
 ### Tools & Infrastructure
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
@@ -86,7 +73,6 @@ Y cuando no estoy frente al código... probablemente estoy sobre una bici, corri
 ### Backend
 
 ![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ### Frontend
