@@ -1,8 +1,8 @@
-# ![[MC_Logo.png|56]] Hey, I'm Mau 🤟🏾
+# <img src="https://raw.githubusercontent.com/Maucols/maucols/refs/heads/main/MC_Logo.png" width="56" alt="MC Logo"> Hey, I'm Mau 🤟🏾
 
 ### Full Stack Developer · Tech Explorer · Rocker 🤘🏾
 
-![[MC_Banner.png]]
+![MC_Banner.png](https://raw.githubusercontent.com/Maucols/maucols/refs/heads/main/MC_Banner.png)
 
 ```text
 Building software by day.
@@ -14,7 +14,7 @@ Soy **Mauricio**, aunque normalmente me encontrarás como **Mau**.
 
 Soy desarrollador web y actualmente trabajo construyendo y manteniendo aplicaciones que ayudan a resolver problemas reales de negocio.
 
-Me gusta entender el problema antes de escribir código, construir soluciones mantenibles y aprender tecnologías que realmente puedan llevar mis proyectos al siguiente nivel.
+Me gusta entender el problema antes de codear, construir soluciones mantenibles y aprender tecnologías que realmente puedan llevar mis proyectos al siguiente nivel.
 
 Y cuando no estoy frente al código... probablemente estoy sobre una bici, corriendo, trepando algún cerro o escuchando/tocando música a todo volumen. 🎸🏔️
 
@@ -175,7 +175,7 @@ Creo que programar y salir a explorar tienen algo en común:
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Maucols)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/maucols)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/mau.cols)
-[![Strava](https://img.shields.io/badge/Strava-111111?style=for-the-badge&logo=strava&logoColor=FC4C02)](https://www.strava.com/athletes/TU_ID)
+[![Strava](https://img.shields.io/badge/Strava-111111?style=for-the-badge&logo=strava&logoColor=FC4C02)](https://strava.com/athletes/62807637)
 [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://maucols.com)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:magilleloco@gmail.com)
 
