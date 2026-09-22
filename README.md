@@ -133,7 +133,7 @@ Y sí... probablemente siempre lo estará. 😎
 ---
 
 ## 📈 GitHub Stats
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Maucols&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Maucols&show_icons=true&include_all_commits=true&theme=dark_github)
 ---
 
 ## 🎸 Beyond the Code
